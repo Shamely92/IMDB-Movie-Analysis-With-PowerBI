@@ -17,7 +17,9 @@ We have developed an interactive Power BI dashboard to analyze the factors influ
 **Feature Engineering:** Exploring and creating new features to uncover potential correlations and enhance the depth of analysis.
 
 **Data Analytics Tasks**
+
 **A. Movie Genre Analysis** 
+
 Determined the most common genres of movies in the dataset. Calculated descriptive statistics (mean, median, mode, range, variance, standard deviation) of the IMDB scores for each genre.
 
 **B. Movie Duration Analysis**
